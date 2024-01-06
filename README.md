@@ -64,7 +64,7 @@ Credit to previous author: Hashir Bin Khalid (mk7744@nyu.edu)
 Step 1: Activate virtual environment
 
 ```
-conda activate py37_tensorflow
+conda activate py37_default
 ```
 
 Step 2: Setup up p2p connection with MetaML in a different Terminal
