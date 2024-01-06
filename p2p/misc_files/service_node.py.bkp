@@ -1,0 +1,356 @@
+import hashlib
+import re
+import logging
+import argparse
+import threading
+import time
+import traceback
+from sys import stdout
+from typing import Tuple, Union
+import btpeer
+
+from message import Message
+from message import MessageType
+
+
+def init_argparse() -> argparse.ArgumentParser:
+    argument_parser = argparse.ArgumentParser(usage="%(prog)s --port --first-hop...")
+    argument_parser.add_argument("-v", "--version", action="version", version=f"{argument_parser.prog} version 1.0.0")
+    argument_parser.add_argument('--port', required=True)
+    argument_parser.add_argument('--first-hop', default=None)
+    argument_parser.add_argument('--node_id')
+    return argument_parser
+
+
+class ServiceNode(btpeer.BTPeer):
+    M = 16
+    N = 2 ** M
+
+    @staticmethod
+    def hasher(key):
+        """
+        DO NOT EDIT THIS FUNCTION.
+        You can use this function as follows:
+                For a node: self.hasher(node.host+str(node.port))
+                For a file: self.hasher(file)
+        """
+        return int(hashlib.md5(key.encode()).hexdigest(), ServiceNode.M) % ServiceNode.N
+
+    def __init__(self, first_peer: str, hops=2, max_peers: int = 5, server_port: int = 0, my_id: str = None):
+        btpeer.BTPeer.__init__(self, max_peers=max_peers, server_port=server_port, my_id=my_id)
+        self.add_router(self.__router)
+        handlers = {
+            MessageType.LIST: self.__handle_list_peers,
+            MessageType.JOIN: self.__handle_insert_peer,
+            MessageType.NAME: self.__handle_peer_name,
+            MessageType.QUERY: self.__handle_query,
+            MessageType.QUIT: self.__handle_quit
+        }
+
+        self.__key = ServiceNode.hasher(self.id)
+        self.__heartbeat = 2  # seconds
+        self.__address = (self.server_host, self.server_port)
+
+        self.__successor = self.address
+        self.__predecessor = self.address
+
+        for mt in handlers:
+            self.add_handler(mt, handlers[mt])
+        if first_peer is not None:
+            host, port = first_peer.split(':')
+            self.build_peers(host, int(port), hops=hops)
+
+    @property
+    def key(self):
+        return self.__key
+
+    @property
+    def address(self):
+        return self.__address
+
+    @property
+    def successor(self):
+        return self.__successor
+
+    @successor.setter
+    def successor(self, succ: Tuple):
+        self.__successor = succ
+
+    @property
+    def predecessor(self):
+        return self.__predecessor
+
+    @predecessor.setter
+    def predecessor(self, pred: Tuple):
+        self.__predecessor = pred
+
+    def server_hash(self, host, port):
+        return self.hasher(f'{host}:{port}')
+
+    def succ_in_domain(self, key: int) -> bool:
+        succ_key = self.server_hash(self.successor)
+        if succ_key == self.key:
+            return True
+        if succ_key < self.key and (key >= self.key or key < succ_key):
+            return True
+        if succ_key > self.key and succ_key >= key > self.key:
+            return True
+        return False
+
+    def pred_in_domain(self, key: int) -> bool:
+        pred_key = ServiceNode.hasher(*self.predecessor)
+        if pred_key == self.key:
+            return True
+        if pred_key > self.key and (key <= self.key or key > pred_key):
+            return True
+        if pred_key < self.key and (self.key >= key > pred_key):
+            return True
+        return False
+
+    def ping_predecessor(self):
+        while not self.shutdown:
+            time.sleep(self.__heartbeat)
+            if self.predecessor != self.address:
+                try:
+                    self.ping(*self.predecessor)
+                except ConnectionError:
+                    time.sleep(self.__heartbeat)
+                    logging.error('predecessor down')
+                    self.__predecessor = self.address
+
+                    # time.sleep(self.heart_beat)
+                    # self.logger.warning(
+                    #     "predecessor %s down", self.predecessor)
+                    # self.predecessor = self.addr
+                    #
+                    # self.restore_backup()
+                    # self.send_files_as_backup()
+                    #
+                    # self.send_msg_to_addr(
+                    #     self.successor,
+                    #     self.make_msg("lookup_node", key=self.key)
+                    # )
+                    #
+                    # self.predecessor = self.queue.get()
+                    #
+                    # self.send_msg_to_addr(
+                    #     self.predecessor,
+                    #     self.make_msg("update_successor")
+                    # )
+
+    def ping_successor(self):
+        while not self.shutdown:
+            time.sleep(self.__heartbeat)
+            if self.__successor != self.address:
+                try:
+                    self.ping(*self.successor)
+                except ConnectionError:
+                    logging.error('Successor down')
+                    self.__successor = self.address
+
+    def ping(self, host: str, port: Union[int, str]):
+        connection = btpeer.BTPeerConnection(host=host, port=port)
+        connection.send_data(Message.ping_message())
+        response = connection.recv_data()
+
+    def key_in_domain(self, key: int) -> bool:
+        predecessor_key = self.server_hash(self.predecessor)
+
+        if predecessor_key == self.key:
+            return True
+
+        if predecessor_key > self.key and (key <= self.key or key > predecessor_key):
+            return True
+
+        if predecessor_key < self.key and self.key >= key > predecessor_key:
+            return True
+
+        return False
+
+    def lookup(self, address: Tuple[str, Union[int, str]]):
+        '''
+        Lookup key in the current doamin.
+
+        If found send the lookup_response to the
+        enquirer. Else forward to the predecessor.
+
+        key: key to lookup
+        addr: enquirer's address
+        '''
+        if self.key_in_domain(key):
+            self.send_msg_to_addr(addr, self.make_msg("lookup_response"))
+            return
+
+        self.send_msg_to_addr(
+            self.predecessor,
+            self.make_msg("lookup", key=key, addr=addr)
+        )
+
+    def __router(self, peer_id):
+        if peer_id not in self.get_peer_ids():
+            return None, None, None
+        rt = [peer_id]
+        rt.extend(self.peers[peer_id])
+        return rt
+
+    def __handle_list_peers(self, peer_conn: 'btpeer.BTPeerConnection', data):
+        """
+            Handles the LISTPEERS message type. Message data is not used.
+        """
+        if isinstance(data, bytes):
+            data = data.decode('utf-8')
+        self.peer_lock.acquire()
+        try:
+            logging.debug(f'Listing peers {self.number_of_peers()}')
+            peer_conn.send_data(Message(MessageType.REPLY, f'{self.number_of_peers()}'))
+            for pid in self.get_peer_ids():
+                host, port = self.get_peer(pid)
+                message = Message(MessageType.REPLY, f'{pid}@{host}:{port}')
+                peer_conn.send_data(message)
+        finally:
+            self.peer_lock.release()
+
+    def __handle_peer_name(self, peer_conn: 'btpeer.BTPeerConnection', data):
+        """
+            Handles the NAME message type. Message data is not used.
+        """
+        peer_conn.send_data(Message(MessageType.REPLY, self.id))
+
+    def __handle_insert_peer(self, peer_conn: 'btpeer.BTPeerConnection', data):
+        """ Handles the INSERTPEER (join) message type. The message data
+        should be a string of the form, "peer_id  host  port", where peer-node_id
+        is the canonical name_message of the peer that desires to be added to this
+        peer's list_message of peers, host and port are the necessary data to connect
+        to the peer.
+        """
+        self.peer_lock.acquire()
+        try:
+            try:
+                peer_id, host, port = data.split(b' ')
+                host = host.decode('utf-8')
+                peer_id = peer_id.decode('utf-8')
+                port = int(port)
+                if self.max_peers_reached():
+                    logging.debug(f'Max peers {self.max_peers} reached: connection terminating')
+                    peer_conn.send_data(Message(MessageType.ERROR, 'Join: too many peers'))
+                    return
+                if peer_id not in self.get_peer_ids() and peer_id != self.id:
+                    self.add_peer(peer_id, host, port)
+                    logging.debug(f'added peer: {peer_id}')
+                    peer_conn.send_data(Message(MessageType.REPLY, f'Join: peer added: {peer_id}'))
+                else:
+                    peer_conn.send_data(Message(MessageType.ERROR, f'Join: peer already inserted {peer_id}'))
+            # except IllegalArgumentError:
+            except:
+                logging.debug(f'invalid insert {peer_conn}: {data}')
+                peer_conn.send_data(Message(MessageType.ERROR, 'Join: incorrect arguments'))
+        finally:
+            self.peer_lock.release()
+
+    def __handle_quit(self, peer_conn: 'btpeer.BTPeerConnection', data):
+        """
+            Handles the QUIT message type. The message data should be in the
+            format of a string, "peer-node_id", where peer-node_id is the canonical
+            name_message of the peer that wishes to be unregistered from this
+            peer's directory.
+        """
+        self.peer_lock.acquire()
+        try:
+            peer_id = data.lstrip().rstrip()
+            if peer_id in self.get_peer_ids():
+                msg = f'Quit: peer removed: {peer_id}'
+                logging.debug(msg)
+                peer_conn.send_data(Message(MessageType.REPLY, msg))
+                self.remove_peer(peer_id)
+            else:
+                msg = f'Quit: peer not found: {peer_id}'
+                logging.debug(msg)
+                peer_conn.send_data(Message(MessageType.ERROR, msg))
+        finally:
+            self.peer_lock.release()
+
+    # QUERY arguments: "return (peer_id, key, ttl)"
+    def __handle_query(self, peer_conn: 'btpeer.BTPeerConnection', data):
+        """
+            Handles the QUERY message type. The message data should be in the
+            format of a string, "return (peer-node_id, key, ttl)", where return-peer-node_id
+            is the name_message of the peer that initiated the query, key is the (portion
+            of the) file name_message being searched for, and ttl is how many further
+            levels of peers this query should be propagated on.
+        """
+        # self.peer_lock.acquire()
+        try:
+            peer_id, key, ttl = data.split()
+            peer_conn.send_data(Message(MessageType.REPLY, f'Query ACK: {key}'))
+            t = threading.Thread(target=self.__process_query, args=[peer_id, key, int(ttl)])
+            t.start()
+        except:
+            logging.debug(f'invalid query {peer_conn}: {data}')
+            peer_conn.send_data(Message(MessageType.ERROR, 'Query: incorrect arguments'))
+        # self.peer_lock.release()
+
+    def __process_query(self, peer_id: str, key, ttl):
+        """
+            Handles the processing of a query message after it has been
+            received and acknowledged, by either replying with a QRESPONSE message
+            if the file is found in the local list_message of files, or propagating the
+            message onto all immediate neighbors.
+        """
+        # propagate query to neighbors
+        if ttl > 0:
+            msg_dataa = f'{peer_id} {key} {ttl}'
+            for next_pid in self.get_peer_ids():
+                self.send_to_peer(next_pid, MessageType.QUERY, msg_dataa)
+
+    # precondition: may be a good idea to hold the lock before going
+    #               into this function
+    def build_peers(self, host, port, hops=1):
+        """ build_peers(host, port, hops)
+
+        Attempt to build the local peer list_message up to the limit stored by
+        'self.maxpeers', using a simple depth-first search given an
+        initial host and port as starting point. The depth of the
+        search is limited by the 'hops' parameter.
+        """
+        peer_pattern = re.compile('([.\\w:]+)@(\\d+\\.\\d+\\.\\d+\\.\\d+):(\\d*)')
+        if self.max_peers_reached() or not (hops > 0):
+            return
+        peer_id = None
+        logging.debug(f'Building peers from ({host},{port})')
+        try:
+            message = self.connect_and_send(host, port, Message.name_message())[0]
+            logging.debug(f"contacted {message.message_data}")
+            message = \
+                self.connect_and_send(host, port,
+                                      Message.insert_message(self.id, self.server_host, self.server_port))[0]
+            logging.debug(message)
+            message_type, message_data = message.message_type, message.message_data
+            if (message_type != MessageType.REPLY) or (message_data in self.get_peer_ids()):
+                return
+
+            self.add_peer(peer_id, host, port)
+
+            # do recursive depth first search to add more peers
+            messages = self.connect_and_send(host, port, Message.list_message(), pid=peer_id)
+            if len(messages) > 1:
+                messages.reverse()
+                messages.pop()  # get rid of header count reply
+
+                while len(messages):
+                    message = messages.pop()
+                    pattern_breakdown = peer_pattern.findall(message.message_data.decode('utf-8'))
+                    print(pattern_breakdown)
+                    next_pid, host, port = pattern_breakdown[0]
+                    if next_pid != self.id:
+                        self.build_peers(host, port, hops - 1)
+        except:
+            traceback.print_exc()
+            self.remove_peer(peer_id)
+
+
+if __name__ == '__main__':
+    logging.basicConfig(stream=stdout, level=logging.DEBUG)
+    parser = init_argparse()
+    args = parser.parse_args()
+    service = ServiceNode(args.first_hop, server_port=args.port, my_id=args.id, )
+    service.mainloop()
