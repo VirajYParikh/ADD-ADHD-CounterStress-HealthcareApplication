@@ -1,0 +1,984 @@
+2023-10-29 21:14:45,967 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:14:45,967 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:14:45,967 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:35:18,228 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:35:18,228 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:35:18,228 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:36:30,898 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:36:30,898 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:36:30,898 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:39:03,077 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:39:03,077 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:39:03,077 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:39:03,078 - INFO: DownloadHandler: Building Database Connection
+2023-10-29 21:39:03,078 - INFO: DownloadHandler: Building Database Connection
+2023-10-29 21:39:03,078 - INFO: DownloadHandler: Building Database Connection
+2023-10-29 21:39:57,492 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:39:57,492 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:39:57,492 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:39:57,493 - INFO: DownloadHandler: Building Database Connection
+2023-10-29 21:39:57,493 - INFO: DownloadHandler: Building Database Connection
+2023-10-29 21:39:57,493 - INFO: DownloadHandler: Building Database Connection
+2023-10-29 21:42:24,897 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:42:24,897 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:42:24,897 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:43:19,306 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:43:19,306 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:43:19,306 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:45:36,603 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:45:36,603 - INFO: DownloadHandler: Download Bots Handler
+2023-10-29 21:45:36,603 - INFO: DownloadHandler: Download Bots Handler
+2023-10-30 13:36:34,335 - INFO: DownloadHandler: Download Bots Handler
+2023-10-30 13:36:34,335 - INFO: DownloadHandler: Download Bots Handler
+2023-10-30 13:36:34,335 - INFO: DownloadHandler: Download Bots Handler
+2023-10-30 22:39:41,743 - INFO: DownloadHandler: Download Bots Handler
+2023-10-30 22:39:41,743 - INFO: DownloadHandler: Download Bots Handler
+2023-10-30 22:39:41,743 - INFO: DownloadHandler: Download Bots Handler
+2023-10-30 22:39:42,010 - INFO: ******************** RobothonHandler: downloading submitted bots... ********************
+2023-10-30 22:39:42,010 - INFO: ******************** RobothonHandler: downloading submitted bots... ********************
+2023-10-30 22:39:42,010 - INFO: ******************** RobothonHandler: downloading submitted bots... ********************
+2023-10-30 22:39:42,010 - INFO: DownloadHandler: fetching participant download information...
+2023-10-30 22:39:42,010 - INFO: DownloadHandler: fetching participant download information...
+2023-10-30 22:39:42,010 - INFO: DownloadHandler: fetching participant download information...
+2023-11-05 22:06:57,252 - INFO: DownloadHandler: Download Bots Handler
+2023-11-05 22:06:57,252 - INFO: DownloadHandler: Download Bots Handler
+2023-11-05 22:06:57,252 - INFO: DownloadHandler: Download Bots Handler
+2023-11-05 22:06:57,493 - INFO: ******************** RobothonHandler: downloading submitted bots... ********************
+2023-11-05 22:06:57,493 - INFO: ******************** RobothonHandler: downloading submitted bots... ********************
+2023-11-05 22:06:57,493 - INFO: ******************** RobothonHandler: downloading submitted bots... ********************
+2023-11-05 22:06:57,493 - INFO: DownloadHandler: fetching participant download information...
+2023-11-05 22:06:57,493 - INFO: DownloadHandler: fetching participant download information...
+2023-11-05 22:06:57,493 - INFO: DownloadHandler: fetching participant download information...
+2023-11-05 22:09:16,343 - INFO: ******************** RobothonHandler: starting all robothon server processes... ********************
+2023-11-05 22:09:16,343 - INFO: ******************** RobothonHandler: starting all robothon server processes... ********************
+2023-11-05 22:09:16,351 - INFO: ServerHandler: the InfluxDB database is already running!
+2023-11-05 22:09:16,351 - INFO: ServerHandler: the InfluxDB database is already running!
+2023-11-05 22:53:01,656 - INFO: DownloadHandler: Download Bots Handler
+2023-11-05 22:53:01,656 - INFO: DownloadHandler: Download Bots Handler
+2023-11-05 22:53:01,656 - INFO: DownloadHandler: Download Bots Handler
+2023-11-05 22:53:01,915 - INFO: ******************** RobothonHandler: downloading submitted bots... ********************
+2023-11-05 22:53:01,915 - INFO: ******************** RobothonHandler: downloading submitted bots... ********************
+2023-11-05 22:53:01,915 - INFO: ******************** RobothonHandler: downloading submitted bots... ********************
+2023-11-05 22:53:01,915 - INFO: DownloadHandler: fetching participant download information...
+2023-11-05 22:53:01,915 - INFO: DownloadHandler: fetching participant download information...
+2023-11-05 22:53:01,915 - INFO: DownloadHandler: fetching participant download information...
+2023-11-05 22:57:37,815 - INFO: DownloadHandler: Download Bots Handler
+2023-11-05 22:57:37,815 - INFO: DownloadHandler: Download Bots Handler
+2023-11-05 22:57:37,815 - INFO: DownloadHandler: Download Bots Handler
+2023-11-05 22:57:38,056 - INFO: ******************** RobothonHandler: downloading submitted bots... ********************
+2023-11-05 22:57:38,056 - INFO: ******************** RobothonHandler: downloading submitted bots... ********************
+2023-11-05 22:57:38,056 - INFO: ******************** RobothonHandler: downloading submitted bots... ********************
+2023-11-05 22:57:38,056 - INFO: DownloadHandler: fetching participant download information...
+2023-11-05 22:57:38,056 - INFO: DownloadHandler: fetching participant download information...
+2023-11-05 22:57:38,056 - INFO: DownloadHandler: fetching participant download information...
+2023-11-05 23:01:05,677 - INFO: DownloadHandler: Download Bots Handler
+2023-11-05 23:01:05,677 - INFO: DownloadHandler: Download Bots Handler
+2023-11-05 23:01:05,677 - INFO: DownloadHandler: Download Bots Handler
+2023-11-05 23:01:05,918 - INFO: ******************** RobothonHandler: downloading submitted bots... ********************
+2023-11-05 23:01:05,918 - INFO: ******************** RobothonHandler: downloading submitted bots... ********************
+2023-11-05 23:01:05,918 - INFO: ******************** RobothonHandler: downloading submitted bots... ********************
+2023-11-05 23:01:05,918 - INFO: DownloadHandler: fetching participant download information...
+2023-11-05 23:01:05,918 - INFO: DownloadHandler: fetching participant download information...
+2023-11-05 23:01:05,918 - INFO: DownloadHandler: fetching participant download information...
+2023-12-19 22:18:46,046 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:18:46,046 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:18:46,046 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:20:38,683 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:20:38,683 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:20:38,683 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:22:56,320 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:22:56,320 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:22:56,320 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:23:03,003 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:23:03,003 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:23:03,003 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:23:51,235 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:23:51,235 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:23:51,235 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:27:56,113 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:27:56,113 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:27:56,113 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:28:08,123 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:28:08,123 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:28:08,123 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:28:35,721 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:28:35,721 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:28:35,721 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:28:47,205 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:28:47,205 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:28:47,205 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:28:55,156 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:28:55,156 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:28:55,156 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:29:20,823 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:29:20,823 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:29:20,823 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:29:29,365 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:29:29,365 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:29:29,365 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:29:34,756 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:29:34,756 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:29:34,756 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:30:08,175 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:30:08,175 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-19 22:30:08,175 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:10:24,192 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:10:24,192 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:10:24,192 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:10:50,849 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:10:50,849 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:10:50,849 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:11:03,133 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:11:03,133 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:11:03,133 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:11:38,768 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:11:38,768 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:11:38,768 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:12:29,254 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:12:29,254 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:12:29,254 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:13:45,815 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:13:45,815 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:13:45,815 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:14:23,884 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:14:23,884 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:14:23,884 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:15:03,130 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:15:03,130 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:15:03,130 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:15:27,690 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:15:27,690 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:15:27,690 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 03:15:50,877 - INFO: DownloadHandler: Download Bots Handler
+2023-12-20 03:15:50,877 - INFO: DownloadHandler: Download Bots Handler
+2023-12-20 03:15:50,877 - INFO: DownloadHandler: Download Bots Handler
+2023-12-20 03:15:50,877 - INFO: DownloadHandler: Download Bots Handler
+2023-12-20 03:15:51,118 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-20 03:15:51,118 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-20 03:15:51,118 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-20 03:15:51,118 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-20 04:37:26,923 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 04:37:26,923 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 04:37:26,923 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 04:37:49,844 - INFO: DownloadHandler: Download Bots Handler
+2023-12-20 04:37:49,844 - INFO: DownloadHandler: Download Bots Handler
+2023-12-20 04:37:49,844 - INFO: DownloadHandler: Download Bots Handler
+2023-12-20 04:37:49,844 - INFO: DownloadHandler: Download Bots Handler
+2023-12-20 04:37:50,084 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-20 04:37:50,084 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-20 04:37:50,084 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-20 04:37:50,084 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-20 05:19:37,874 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 05:19:37,874 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 05:19:37,874 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 05:19:37,875 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 05:19:37,875 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 05:19:37,875 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 05:20:14,801 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 05:20:14,801 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 05:20:14,801 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 05:20:14,801 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 05:20:14,801 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 05:20:14,801 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 05:21:47,098 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 05:21:47,098 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 05:21:47,098 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 05:21:47,098 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 05:21:47,098 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 05:21:47,098 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 05:23:01,973 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 05:23:01,973 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 05:23:01,973 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 05:23:01,974 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 05:23:01,974 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 05:23:01,974 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 05:23:09,047 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 05:23:09,047 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 05:23:09,047 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 05:23:09,047 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 05:23:09,047 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 05:23:09,047 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 18:44:26,298 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 18:44:26,298 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 18:44:26,298 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 18:44:26,298 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 18:44:26,298 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 18:44:26,298 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 18:45:53,954 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 18:45:53,954 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 18:45:53,954 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 18:45:53,954 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 18:45:53,954 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 18:45:53,954 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 18:49:06,197 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 18:49:06,197 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 18:49:06,197 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 18:49:06,197 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 18:49:06,197 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 18:49:06,197 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 18:54:53,455 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 18:54:53,455 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 18:54:53,455 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-20 18:54:53,455 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 18:54:53,455 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-20 18:54:53,455 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-23 02:01:54,537 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-23 02:01:54,537 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-23 02:01:54,537 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-23 02:01:54,538 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-23 02:01:54,538 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-23 02:01:54,538 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:12:48,912 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:12:48,912 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:12:48,912 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:12:48,913 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:12:48,913 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:12:48,913 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:26:43,488 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:26:43,488 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:26:43,488 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:26:43,488 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:26:43,488 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:26:43,488 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:27:48,932 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:27:48,932 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:27:48,932 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:27:48,932 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:27:48,932 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:27:48,932 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:31:14,326 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:31:14,326 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:31:14,326 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:31:14,327 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:31:14,327 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:31:14,327 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:32:52,207 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:32:52,207 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:32:52,207 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:32:52,207 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:32:52,207 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:32:52,207 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:34:45,673 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:34:45,673 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:34:45,673 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:34:45,674 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:34:45,674 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:34:45,674 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:39:15,142 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:39:15,142 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:39:15,142 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:39:15,142 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:39:15,142 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:39:15,142 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:47:13,184 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:47:13,184 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:47:13,184 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:47:13,184 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:47:13,184 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:47:13,184 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:51:04,060 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:51:04,060 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:51:04,060 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 14:51:04,060 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:51:04,060 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 14:51:04,060 - INFO: ******************** RobothonHandler: ending competition... ********************
+2023-12-31 15:07:33,013 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:07:33,013 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:07:33,013 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:07:56,471 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:07:56,471 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:07:56,471 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:07:56,471 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:07:56,713 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:07:56,713 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:07:56,713 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:07:56,713 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:09:14,409 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:09:14,409 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:09:14,409 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:09:38,675 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:09:38,675 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:09:38,675 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:09:38,675 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:09:38,918 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:09:38,918 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:09:38,918 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:09:38,918 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:12:28,756 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:12:28,756 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:12:28,756 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:12:42,080 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:12:42,080 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:12:42,080 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:13:05,816 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:13:05,816 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:13:05,816 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:13:05,816 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:13:06,055 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:13:06,055 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:13:06,055 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:13:06,055 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:14:35,991 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:14:35,991 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:14:35,991 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:14:54,198 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:14:54,198 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:14:54,198 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:15:17,757 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:15:17,757 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:15:17,757 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:15:17,757 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:15:17,996 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:15:17,996 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:15:17,996 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:15:17,996 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:20:24,431 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:20:24,431 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:20:24,431 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:20:47,635 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:20:47,635 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:20:47,635 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:20:47,635 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:20:47,875 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:20:47,875 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:20:47,875 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:20:47,875 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:22:07,162 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:22:07,162 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:22:07,162 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:22:30,712 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:22:30,712 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:22:30,712 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:22:30,712 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:22:30,953 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:22:30,953 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:22:30,953 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:22:30,953 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:23:10,609 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:23:10,609 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:23:10,609 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:23:33,682 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:23:33,682 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:23:33,682 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:23:33,682 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:23:33,922 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:23:33,922 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:23:33,922 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:23:33,922 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:25:30,398 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:25:30,398 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:25:30,398 - INFO: ServerHandler: the rabbitmq-server is already running!
+2023-12-31 15:25:53,583 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:25:53,583 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:25:53,583 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:25:53,583 - INFO: DownloadHandler: Download Bots Handler
+2023-12-31 15:25:53,826 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:25:53,826 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:25:53,826 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2023-12-31 15:25:53,826 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 14:54:21,121 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 14:54:21,121 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 14:54:21,121 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 14:54:21,121 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 14:54:21,121 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 14:54:21,121 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 14:55:21,344 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 14:55:21,344 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 14:55:21,344 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 14:55:21,344 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 14:55:21,344 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 14:55:21,344 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 15:07:24,722 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:07:24,722 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:07:24,722 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:07:48,602 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:07:48,602 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:07:48,602 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:07:48,602 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:07:48,842 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:07:48,842 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:07:48,842 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:07:48,842 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:09:53,732 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:09:53,732 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:09:53,732 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:10:17,326 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:10:17,326 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:10:17,326 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:10:17,326 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:10:17,568 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:10:17,568 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:10:17,568 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:10:17,568 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:13:37,408 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:13:37,408 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:13:37,408 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:14:01,542 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:14:01,542 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:14:01,542 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:14:01,542 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:14:01,789 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:14:01,789 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:14:01,789 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:14:01,789 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:15:20,872 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:15:20,872 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:15:20,872 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:15:44,963 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:15:44,963 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:15:44,963 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:15:44,963 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:15:45,204 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:15:45,204 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:15:45,204 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:15:45,204 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:16:33,886 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:16:33,886 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:16:33,886 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:16:57,343 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:16:57,343 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:16:57,343 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:16:57,343 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:16:57,584 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:16:57,584 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:16:57,584 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:16:57,584 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:19:54,104 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:19:54,104 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:19:54,104 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:19:54,104 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 15:19:54,104 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 15:19:54,104 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 15:21:57,169 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:21:57,169 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:21:57,169 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:21:57,169 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 15:21:57,169 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 15:21:57,169 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 15:28:21,807 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:28:21,807 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:28:21,807 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:28:21,808 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 15:28:21,808 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 15:28:21,808 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 15:29:18,488 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:29:18,488 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:29:18,488 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:29:41,573 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:29:41,573 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:29:41,573 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:29:41,573 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:29:41,811 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:29:41,811 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:29:41,811 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:29:41,811 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:30:16,578 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:30:16,578 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:30:16,578 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 15:30:39,683 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:30:39,683 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:30:39,683 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:30:39,683 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 15:30:39,924 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:30:39,924 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:30:39,924 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 15:30:39,924 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 16:16:42,863 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 16:16:42,863 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 16:16:42,863 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 16:17:06,056 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 16:17:06,056 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 16:17:06,056 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 16:17:06,056 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 16:17:06,297 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 16:17:06,297 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 16:17:06,297 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 16:17:06,297 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 16:19:16,751 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 16:19:16,751 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 16:19:16,751 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 16:19:39,935 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 16:19:39,935 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 16:19:39,935 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 16:19:39,935 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 16:19:40,174 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 16:19:40,174 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 16:19:40,174 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 16:19:40,174 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 16:23:03,393 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 16:23:03,393 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 16:23:03,393 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 16:23:35,150 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 16:23:35,150 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 16:23:35,150 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 16:23:58,444 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 16:23:58,444 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 16:23:58,444 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 16:23:58,444 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 16:23:58,684 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 16:23:58,684 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 16:23:58,684 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 16:23:58,684 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 16:25:00,439 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 16:25:00,439 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 16:25:00,439 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 16:25:00,440 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 16:25:00,440 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 16:25:00,440 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-01 19:45:03,332 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 19:45:03,332 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 19:45:03,332 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 19:45:26,447 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 19:45:26,447 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 19:45:26,447 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 19:45:26,447 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 19:45:26,688 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 19:45:26,688 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 19:45:26,688 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 19:45:26,688 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 19:46:09,950 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 19:46:09,950 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 19:46:09,950 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 19:46:33,586 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 19:46:33,586 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 19:46:33,586 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 19:46:33,586 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 19:46:33,828 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 19:46:33,828 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 19:46:33,828 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 19:46:33,828 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 19:47:26,127 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 19:47:26,127 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 19:47:26,127 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-01 19:47:49,334 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 19:47:49,334 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 19:47:49,334 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 19:47:49,334 - INFO: DownloadHandler: Download Bots Handler
+2024-01-01 19:47:49,575 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 19:47:49,575 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 19:47:49,575 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-01 19:47:49,575 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:05:59,162 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:05:59,162 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:05:59,162 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:06:22,512 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:06:22,512 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:06:22,512 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:06:22,512 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:06:22,752 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:06:22,752 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:06:22,752 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:06:22,752 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:06:44,493 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:06:44,493 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:06:44,493 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:07:46,555 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:07:46,555 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:07:46,555 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:08:09,787 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:08:09,787 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:08:09,787 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:08:09,787 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:08:10,028 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:08:10,028 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:08:10,028 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:08:10,028 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:08:39,377 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:08:39,377 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:08:39,377 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:09:02,738 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:09:02,738 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:09:02,738 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:09:02,738 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:09:02,980 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:09:02,980 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:09:02,980 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:09:02,980 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:14:55,664 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:14:55,664 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:14:55,664 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:15:19,267 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:15:19,267 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:15:19,267 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:15:19,267 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:15:19,507 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:15:19,507 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:15:19,507 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:15:19,507 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:18:43,762 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:18:43,762 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:18:43,762 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:19:06,834 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:19:06,834 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:19:06,834 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:19:06,834 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:19:07,076 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:19:07,076 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:19:07,076 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:19:07,076 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:20:06,470 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:20:06,470 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:20:06,470 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:20:29,552 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:20:29,552 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:20:29,552 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:20:29,552 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:20:29,793 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:20:29,793 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:20:29,793 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:20:29,793 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:35:41,600 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:35:41,600 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:35:41,600 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:36:04,506 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:36:04,506 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:36:04,506 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:36:04,506 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:36:04,745 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:36:04,745 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:36:04,745 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:36:04,745 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:37:59,976 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:37:59,976 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:37:59,976 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:38:23,032 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:38:23,032 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:38:23,032 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:38:23,032 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:38:23,272 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:38:23,272 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:38:23,272 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:38:23,272 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:38:46,752 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:38:46,752 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:38:46,752 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:39:09,906 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:39:09,906 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:39:09,906 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:39:09,906 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:39:10,147 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:39:10,147 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:39:10,147 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:39:10,147 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:39:25,071 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:39:25,071 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:39:25,071 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:39:48,101 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:39:48,101 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:39:48,101 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:39:48,101 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:39:48,340 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:39:48,340 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:39:48,340 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:39:48,340 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:40:06,287 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:40:06,287 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:40:06,287 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:40:29,496 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:40:29,496 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:40:29,496 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:40:29,496 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:40:29,735 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:40:29,735 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:40:29,735 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:40:29,735 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:42:05,127 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:42:05,127 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:42:05,127 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:42:28,185 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:42:28,185 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:42:28,185 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:42:28,185 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:42:28,426 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:42:28,426 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:42:28,426 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:42:28,426 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:43:58,759 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:43:58,759 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:43:58,759 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:44:21,870 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:44:21,870 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:44:21,870 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:44:21,870 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:44:22,111 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:44:22,111 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:44:22,111 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:44:22,111 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:44:39,079 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:44:39,079 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:44:39,079 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:45:03,065 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:45:03,065 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:45:03,065 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:45:03,065 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:45:03,306 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:45:03,306 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:45:03,306 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:45:03,306 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:46:04,079 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:46:04,079 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:46:04,079 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:46:27,095 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:46:27,095 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:46:27,095 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:46:27,095 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:46:27,336 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:46:27,336 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:46:27,336 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:46:27,336 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:49:14,305 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:49:14,305 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:49:14,305 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:49:37,154 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:49:37,154 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:49:37,154 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:49:37,154 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:49:37,394 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:49:37,394 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:49:37,394 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:49:37,394 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:49:48,633 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:49:48,633 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:49:48,633 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:50:11,580 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:50:11,580 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:50:11,580 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:50:11,580 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:50:11,821 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:50:11,821 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:50:11,821 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:50:11,821 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:52:53,170 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:52:53,170 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:52:53,170 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:53:16,935 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:53:16,935 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:53:16,935 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:53:16,935 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:53:17,177 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:53:17,177 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:53:17,177 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:53:17,177 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:53:33,723 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:53:33,723 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:53:33,723 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:53:56,572 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:53:56,572 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:53:56,572 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:53:56,572 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:53:56,813 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:53:56,813 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:53:56,813 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:53:56,813 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:54:14,057 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:54:14,057 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:54:14,057 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 01:54:36,979 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:54:36,979 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:54:36,979 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:54:36,979 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 01:54:37,219 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:54:37,219 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:54:37,219 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 01:54:37,219 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 02:44:19,763 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 02:44:19,763 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 02:44:19,763 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 02:44:42,718 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 02:44:42,718 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 02:44:42,718 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 02:44:42,718 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 02:44:42,958 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 02:44:42,958 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 02:44:42,958 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 02:44:42,958 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 02:53:15,693 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 02:53:15,693 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 02:53:15,693 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 02:53:38,934 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 02:53:38,934 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 02:53:38,934 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 02:53:38,934 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 02:53:39,177 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 02:53:39,177 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 02:53:39,177 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 02:53:39,177 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 02:59:47,145 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 02:59:47,145 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 02:59:47,145 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 03:00:11,096 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 03:00:11,096 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 03:00:11,096 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 03:00:11,096 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 03:00:11,337 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 03:00:11,337 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 03:00:11,337 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 03:00:11,337 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 03:03:48,963 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 03:03:48,963 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 03:03:48,963 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 03:04:12,882 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 03:04:12,882 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 03:04:12,882 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 03:04:12,882 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 03:04:13,124 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 03:04:13,124 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 03:04:13,124 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 03:04:13,124 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 04:05:36,785 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 04:05:36,785 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 04:05:36,785 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 04:06:00,346 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 04:06:00,346 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 04:06:00,346 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 04:06:00,346 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 04:06:00,586 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 04:06:00,586 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 04:06:00,586 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 04:06:00,586 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 04:08:39,170 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 04:08:39,170 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 04:08:39,170 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 04:09:03,282 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 04:09:03,282 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 04:09:03,282 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 04:09:03,282 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 04:09:03,526 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 04:09:03,526 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 04:09:03,526 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 04:09:03,526 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 04:33:37,318 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 04:33:37,318 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 04:33:37,318 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 04:34:01,242 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 04:34:01,242 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 04:34:01,242 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 04:34:01,242 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 04:34:01,485 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 04:34:01,485 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 04:34:01,485 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 04:34:01,485 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 04:34:29,705 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 04:34:29,705 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 04:34:29,705 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-02 04:34:52,894 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 04:34:52,894 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 04:34:52,894 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 04:34:52,894 - INFO: DownloadHandler: Download Bots Handler
+2024-01-02 04:34:53,134 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 04:34:53,134 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 04:34:53,134 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-02 04:34:53,134 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 14:48:20,848 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 14:48:20,848 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 14:48:20,848 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 14:48:44,566 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 14:48:44,566 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 14:48:44,566 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 14:48:44,566 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 14:48:44,807 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 14:48:44,807 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 14:48:44,807 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 14:48:44,807 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 15:30:54,548 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 15:30:54,548 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 15:30:54,548 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 15:31:18,458 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 15:31:18,458 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 15:31:18,458 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 15:31:18,458 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 15:31:18,700 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 15:31:18,700 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 15:31:18,700 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 15:31:18,700 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 15:32:34,965 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 15:32:34,965 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 15:32:34,965 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 15:32:58,225 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 15:32:58,225 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 15:32:58,225 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 15:32:58,225 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 15:32:58,470 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 15:32:58,470 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 15:32:58,470 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 15:32:58,470 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 15:59:26,355 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 15:59:26,355 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 15:59:26,355 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:00:32,094 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:00:32,094 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:00:32,094 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:00:55,680 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 16:00:55,680 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 16:00:55,680 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 16:00:55,680 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 16:00:55,920 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 16:00:55,920 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 16:00:55,920 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 16:00:55,920 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 16:01:32,955 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:01:32,955 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:01:32,955 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:01:58,703 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:01:58,703 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:01:58,703 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:02:23,483 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 16:02:23,483 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 16:02:23,483 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 16:02:23,483 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 16:02:23,727 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 16:02:23,727 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 16:02:23,727 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 16:02:23,727 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 16:04:08,694 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:04:08,694 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:04:08,694 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:04:33,363 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 16:04:33,363 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 16:04:33,363 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 16:04:33,363 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 16:04:33,604 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 16:04:33,604 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 16:04:33,604 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 16:04:33,604 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 16:07:30,708 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:07:30,708 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:07:30,708 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:07:30,709 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-04 16:07:30,709 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-04 16:07:30,709 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-04 16:07:46,051 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:07:46,051 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:07:46,051 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:07:46,051 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-04 16:07:46,051 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-04 16:07:46,051 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-04 16:09:52,573 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:09:52,573 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:09:52,573 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:09:52,574 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-04 16:09:52,574 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-04 16:09:52,574 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-04 16:11:55,697 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:11:55,697 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:11:55,697 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:11:55,698 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-04 16:11:55,698 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-04 16:11:55,698 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-04 16:13:35,378 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:13:35,378 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:13:35,378 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:13:59,481 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 16:13:59,481 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 16:13:59,481 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 16:13:59,481 - INFO: DownloadHandler: Download Bots Handler
+2024-01-04 16:13:59,721 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 16:13:59,721 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 16:13:59,721 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 16:13:59,721 - INFO: ******************** RobothonHandler: downloading metaml bots... ********************
+2024-01-04 16:14:08,123 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:14:08,123 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:14:08,123 - INFO: ServerHandler: the rabbitmq-server is already running!
+2024-01-04 16:14:08,123 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-04 16:14:08,123 - INFO: ******************** RobothonHandler: ending competition... ********************
+2024-01-04 16:14:08,123 - INFO: ******************** RobothonHandler: ending competition... ********************
