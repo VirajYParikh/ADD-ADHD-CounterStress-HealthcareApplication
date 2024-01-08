@@ -45,9 +45,9 @@ Note: There is a separation of jobs between MetaML and Competition Platform: The
 | Folder/File                                              | Description                                                                                                                               |
 |----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | RobothonCompetition/DownloadBots/DownloadBotsHandler.py  | Downloads bots from the MetaML platform. |  
-| RobothonCompetition/Deleteots/DeleteBotsHandler.py     | Deletes downloaded and validated bots as well as results. Useful for testing.  |
-| RobothonCompetition/CalculateResults/CalculateResults.py | Calculates the results of the training bots.                                    |
-| download_files/download_files.py                         | Downloads code for each participant                                                                                                       | 
+| RobothonCompetition/DeleteBots/DeleteBotsHandler.py     | Deletes downloaded and validated bots as well as results. Useful for testing.  |
+| RobothonCompetition/CalculateResults/CalculateResults.py | Calculates the results of the bots created by the participants.                                    |
+| RobothonCompetition/EndCompetition/EndCompetition.py | Ends the competition for the participants and sends the fingerprint to MetaML.                                                                                  | 
 | download_files/download_url.py                           | Helper code for dowload_files                                                                                                             | 
 | download_files/download_url.py                           | Helper code for dowload_files                                                                                                             | 
 | bots folder                                              | This folder is used for downloading, validation and storing results of bots. The script uses the folder itself.                           
@@ -62,7 +62,7 @@ Note: There is a separation of jobs between MetaML and Competition Platform: The
 | Validation/validation.py                                 | Validates both modes of each bot to check that it generates some result                                                                   |
 | p2p folder                                               | Preparation environment for the p2p connection. (Credit to the MetaML team)                                                               |
 | p2p/services/AddMetaML.py                                | Send bots request and receive and parse the response message. Store MetaML bots ready for competiton Stage.                               |
-| TestEnv folder                                           | A sandbox environment testing Participants' bots. There is a Readme in this folder to further explain the structure.                      |
+| RobothonCompetition/LaunchSandboxEnv.py                                           | A sandbox environment testing Participants' bots. There is a Readme in this folder to further explain the structure.                      |
 | config folder                                            | Add system config.                                                                                                                        |
 ### Description
 
