@@ -32,7 +32,7 @@ Another very important aspect of the project is the competition platform. Develo
 
 MetaML is a storage system for past winning bots in competitions, which can stretch across multiple domains like healthcare, finance, blockchain, etc. And when we launch a new competition and collect new bots, we want to be able to pull past winning bots into the competition, so that we are constantly borrowing past knowledge.
 
-###### How can we tell what past bots are suitable for the current competition? - We use Fingerprints! 
+##### How can we tell what past bots are suitable for the current competition? - We use Fingerprints! 
 
 The current solution is to generate a fingerprint-based on data used for the current competition, which the MetaML team could use to search past bots having similar fingerprints. Hence, a fingerprint, on a broader level, is a feature that helps provide pieces of identification for the bots stored in the MetaML platform. 
 
