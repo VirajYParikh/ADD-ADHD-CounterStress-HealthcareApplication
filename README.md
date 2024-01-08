@@ -44,7 +44,9 @@ Note: There is a separation of jobs between MetaML and Competition Platform: The
 
 | Folder/File                                              | Description                                                                                                                               |
 |----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| RobothonCompetition/                                     | This folder contains directories within which there exists a handler.py file which initializes each phase of the competition.                              |
+| RobothonCompetition/DownloadBots/DownloadBotsHandler.py
+
+RobothonCompetition/ValidateBots/ValidateBotsHandler.py| This folder contains directories within which there exists a handler.py file which initializes each phase of the competition.                              |
 | Core/core.py                                             | Integrate all function (Fall 2022 Update: add functions to setup p2p connection with MetaML platform and add MetaML bots into competition |
 | Core/delete_bots.py                                      | Deletes downloaded and validated bots as well as result. Useful for testing                                                               |
 | download_files/download_files.py                         | Downloads code for each participant                                                                                                       | 
