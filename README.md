@@ -9,7 +9,7 @@ Credit to the previous authors: Hashir Bin Khalid and Martin Zhao
 - Siqing Tao
 - Chengxi Li
 
-Please Note: Due to confidentiality clauses we are not able to publish the entire working code on GitHub. However, this ReadMe.md will give you a gist of the product we are working on and the functionalities we have worked on.
+Please Note: Due to confidentiality clauses we are not able to publish the entire working code on GitHub. However, this ReadMe.md will give you a gist of the product and the functionalities we have worked on.
 
 ## Introduction: 
 
@@ -44,7 +44,7 @@ Note: There is a separation of jobs between MetaML and Competition Platform: The
 
 | Folder/File                                              | Description                                                                                                                               |
 |----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| bots_competition/main                                    | Runs the competition phase. Runs each bot in stress detection phase first and then in action prediction phase                             |
+| RobothonCompetition/                                     | Runs the competition phase. Runs each bot in different phases based on user input.                              |
 | Core/core.py                                             | Integrate all function (Fall 2022 Update: add functions to setup p2p connection with MetaML platform and add MetaML bots into competition |
 | Core/delete_bots.py                                      | Deletes downloaded and validated bots as well as result. Useful for testing                                                               |
 | download_files/download_files.py                         | Downloads code for each participant                                                                                                       | 
