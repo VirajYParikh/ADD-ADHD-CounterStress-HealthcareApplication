@@ -1,7 +1,7 @@
 # ADD/ADHD CounterStress Healthcare Application:
 
 #### Author: Viraj Parikh & Siqing Tao
-Credit to the previous author's: Hashir Bin Khalid and Martin Zhao
+Credit to the previous authors: Hashir Bin Khalid and Martin Zhao
 
 # Healthcare Robothon Competiton Platform
 ### Team:
@@ -26,7 +26,18 @@ This is essentially the broader idea of the project where we harness the power o
 
 
 Another very important aspect of the project is the competition platform. Developers essentially compete on this platform, and generate ML bots trained on the time series data available. The top-ranked bots are stored away for use while monitoring and deploying counter-stress measures in real-time. 
-MetaML a
+
+
+## MetaML and Meyers: 
+
+MetaML is a storage system for past winning bots in competitions, which can stretch across multiple domains like healthcare, finance, blockchain, etc. And when we launch a new competition and collect new bots, we want to be able to pull past winning bots into the competition, so that we are constantly borrowing past knowledge.
+
+###### How can we tell what past bots are suitable for the current competition? - We use Fingerprints! 
+
+The current solution is to generate a fingerprint-based on data used for the current competition, which the MetaML team could use to search past bots having similar fingerprints. Hence, a fingerprint, on a broader level, is a feature that helps provide pieces of identification for the bots stored in the MetaML platform. 
+
+
+Note: There is a separation of jobs between MetaML and Competition Platform: The competition platform is responsible for generating the fingerprint and MetaML is responsible for running a comparison check on the fingerprints to retrieve the most accurate bots about the time series data in question. 
 
 
 ## File Structure and Use
@@ -57,11 +68,11 @@ MetaML a
 
 #### To run the competition
 
-- **robtohon_scheduler/Scheduler.py**: Just run the script and start a competition from front end. The platform is designed for Linux.
+- **robtohon_scheduler/Scheduler.py**: Just run the script and start a competition from the front end. The platform is designed for Linux.
 
 #### Core
 
-- **core.py**: integrate each function, use python core.py -mode [mode] to start
+- **core.py**: integrate each function, and use python core.py -mode [mode] to start
   - help(1) - terminal help book
   - delete_bot(2) - Delete downloaded and validated bots (for testing) 
   - bot(3) - start competition
