@@ -44,9 +44,9 @@ Note: There is a separation of jobs between MetaML and Competition Platform: The
 
 | Folder/File                                              | Description                                                                                                                               |
 |----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| RobothonCompetition/DownloadBots/DownloadBotsHandler.py  | This folder contains directories within which there exists a handler.py file that initializes each phase of the competition. |
-| Core/core.py                                             | Integrate all function (Fall 2022 Update: add functions to setup p2p connection with MetaML platform and add MetaML bots into competition |
-| Core/delete_bots.py                                      | Deletes downloaded and validated bots as well as result. Useful for testing                                                               |
+| RobothonCompetition/DownloadBots/DownloadBotsHandler.py  | Downloads bots from the MetaML platform. |  
+| RobothonCompetition/Deleteots/DeleteBotsHandler.py     | Deletes downloaded and validated bots as well as results. Useful for testing.  |
+| RobothonCompetition/CalculateResults/CalculateResults.py | Calculates the results of the training bots.                                    |
 | download_files/download_files.py                         | Downloads code for each participant                                                                                                       | 
 | download_files/download_url.py                           | Helper code for dowload_files                                                                                                             | 
 | download_files/download_url.py                           | Helper code for dowload_files                                                                                                             | 
