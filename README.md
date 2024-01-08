@@ -1,17 +1,24 @@
 # ADD/ADHD CounterStress Healthcare Application:
 
-#### Author Martin Zhao(zz3543@nyu.edu)
-Credit to previous author: Hashir Bin Khalid (mk7744@nyu.edu)
+#### Author: Viraj Parikh (vp2359@nyu.edu)
+Credit to the previous author: Hashir Bin Khalid (mk7744@nyu.edu) and Martin Zhao(zz3543@nyu.edu)
 
 # Healthcare Robothon Competiton Platform
-#Team:
-- Zhiheng Yu
-- Chengxi Han
-- Martin Zhao
-- Zhaoxin Yang
-- Jingyuan Ni
-- Akshay Rita
+### Team:
+- Viraj Parikh
+- Siqing Tao
+- Chengxi Li
 
+Please Note: Due to confidentiality clauses we are not able to publish the entire working code on GitHub. However, this ReadMe.md will give you a gist of the product we are working on and the functionalities we have worked on.
+
+## Introduction: 
+
+The advances in technology in the field of wearables (IoT and Sensors) and AI/ML has resulted in the opening of a wide array of thought processes and ideas. We are able to apply these technologies in a variety of interesting ways like AR/VR glasses, Biometric recognition in Apple Watches and so on. 
+Team Meyers is currently working on an interesting application aimed to help children diagnosed with ADD and ADHD. These children often go through abnormally high stress and heart rate occurrences because of the extraordinary way they perceive the world around them. This can be quite dangerous and may lead them to harm themselves or anything in their surroundings due to no fault of their own. 
+Using the power of the Apple watch wearable that is able to sense and extract data like heart rates, stress levels and other important information, one can leverage the detection ability of the powerful ML models to tackle this effect in a smooth and harmless manner. 
+This is essentially the broader idea of the project where we harness the power of ML bots, train them on the time series data extracted from the user’s watch and deploy a bot back onto the watch which would in turn given its knowledge generate the best and appropriate response for example: Audio message, Image, Emoji, Game etc. to help alleviate the user’s stress. 
+Another very important aspect of the project is the competition platform. Developers essentially compete on this platform, and generate ML bots trained on the time series data available. The top ranked bots are stored away for use while monitoring and deploying counter stress measures in real-time. 
+MetaML a
 
 
 ## File Structure and Use
